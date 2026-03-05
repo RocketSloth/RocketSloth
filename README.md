@@ -47,15 +47,15 @@ A Python script that scans local networks for active devices.
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RocketSloth&show_icons=true&hide_title=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RocketSloth&show_icons=true&hide_title=true&theme=tokyonight&cache_seconds=21600" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RocketSloth&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=RocketSloth&theme=tokyonight&cache_seconds=21600" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocketSloth&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocketSloth&layout=compact&theme=tokyonight&cache_seconds=21600" height="150" />
 </p>
 ## 🐍 Contribution Snake (Animated)
 
