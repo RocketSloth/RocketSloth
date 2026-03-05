@@ -1,0 +1,32 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: RocketSloth
+          template: classic
+
+          # IMPORTANT: commit the file into the repo
+          filename: assets/metrics.svg
+          output_action: commit
+          committer_branch: main
+
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+          plugin_followup: yes
+          plugin_followup_sections: repositories
