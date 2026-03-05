@@ -54,18 +54,20 @@ https://github.com/RocketSloth/project-three
 # 📊 Activity Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RocketSloth/RocketSloth/main/assets/metrics.svg" />
+  <img src="https://raw.githubusercontent.com/RocketSloth/RocketSloth/main/assets/metrics.svg?cache=1" alt="GitHub Metrics" />
 </p>
 
-*(this will appear after the metrics workflow runs)*
+*(If you just enabled the workflow, run “Metrics” once in the Actions tab so this file gets committed to `main/assets/metrics.svg`.)*
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RocketSloth/RocketSloth/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/RocketSloth/RocketSloth/output/github-contribution-grid-snake.svg?cache=1" alt="Contribution Snake" />
 </p>
+
+*(If you just enabled the workflow, run “Snake” once in the Actions tab so it publishes the `output` branch.)*
 
 ---
 
@@ -75,4 +77,4 @@ GitHub: https://github.com/RocketSloth
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:1b2a4a,100:0b1020&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:1b2a4a,100:0b1020&height=140&section=footer" width="100%"/>
