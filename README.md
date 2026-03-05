@@ -48,8 +48,8 @@ I enjoy building projects, learning new technologies, and solving interesting pr
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/RocketSloth
-* Portfolio: *(add if you build one later)*
-* LinkedIn: *(optional)*
+* Portfolio: 
+* LinkedIn: 
 
 ---
 
