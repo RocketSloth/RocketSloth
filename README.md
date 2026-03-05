@@ -47,7 +47,7 @@ https://github.com/RocketSloth/project-two
 🌠 **Project Three**  
 https://github.com/RocketSloth/project-three
 
-*(replace these with your real repositories)*
+
 
 ---
 
@@ -57,7 +57,6 @@ https://github.com/RocketSloth/project-three
   <img src="https://raw.githubusercontent.com/RocketSloth/RocketSloth/main/assets/metrics.svg?cache=1" alt="GitHub Metrics" />
 </p>
 
-*(If you just enabled the workflow, run “Metrics” once in the Actions tab so this file gets committed to `main/assets/metrics.svg`.)*
 
 ---
 
@@ -67,7 +66,6 @@ https://github.com/RocketSloth/project-three
   <img src="https://raw.githubusercontent.com/RocketSloth/RocketSloth/output/github-contribution-grid-snake.svg?cache=1" alt="Contribution Snake" />
 </p>
 
-*(If you just enabled the workflow, run “Snake” once in the Actions tab so it publishes the `output` branch.)*
 
 ---
 
