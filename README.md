@@ -34,7 +34,7 @@
 
 ## 📌 Featured Projects
 
-- **🔐 Password Cracker** — A Python tool that demonstrates brute force password testing. 
+### 🔐 Password Cracker** — A Python tool that demonstrates brute force password testing. 
   `https://github.com/RocketSloth/password-cracker`
 ### 🌐 Simple Web Server
 A lightweight Node.js web server for testing APIs.
@@ -45,15 +45,18 @@ A Python script that scans local networks for active devices.
 `https://github.com/RocketSloth/network-scanner`
 
 ## 📊 Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RocketSloth&show_icons=true&hide_title=true&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=RocketSloth&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocketSloth&layout=compact&theme=tokyonight" height="150" />
 </p>
-
 ## 🐍 Contribution Snake (Animated)
 
 <p align="center">
