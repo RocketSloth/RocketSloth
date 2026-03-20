@@ -6,16 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&color=7DF9FF&center=true&vCenter=true&width=900&lines=Welcome+to+RocketSloth's+GitHub;Building+cool+projects;Learning+new+tech+every+day;Open+to+collaborations" />
 </p>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRocketSloth%2FRocketSloth&count_bg=%231b2a4a&title_bg=%230b1020&title=Profile+Views&edge_flat=false" alt="Profile Views" />
-</p>
-
 ---
 
 # 🚀 RocketSloth
 
-💻 Developer
-🧠 Always learning new tech
+💻 Developer  
+🧠 Always learning new tech  
 🚀 Building interesting projects and experimenting with ideas
 
 ---
@@ -42,14 +38,16 @@
 
 # 📌 Featured Projects
 
-🚀 **Project One**
-<https://github.com/RocketSloth/project-one>
+🚀 **Project One**  
+https://github.com/RocketSloth/project-one
 
-🛰️ **Project Two**
-<https://github.com/RocketSloth/project-two>
+🛰️ **Project Two**  
+https://github.com/RocketSloth/project-two
 
-🌠 **Project Three**
-<https://github.com/RocketSloth/project-three>
+🌠 **Project Three**  
+https://github.com/RocketSloth/project-three
+
+
 
 ---
 
@@ -59,6 +57,7 @@
   <img src="https://raw.githubusercontent.com/RocketSloth/RocketSloth/main/assets/metrics.svg?cache=1" alt="GitHub Metrics" />
 </p>
 
+
 ---
 
 # 🐍 Contribution Snake
@@ -67,12 +66,20 @@
   <img src="https://raw.githubusercontent.com/RocketSloth/RocketSloth/output/github-contribution-grid-snake.svg?cache=1" alt="Contribution Snake" />
 </p>
 
+
 ---
 
 # 🌐 Connect
 
-GitHub: <https://github.com/RocketSloth>
+GitHub: https://github.com/RocketSloth  
 
 ---
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRocketSloth%2FRocketSloth&count_bg=%231b2a4a&title_bg=%230b1020&icon=&emoji=&title=Profile+Views&edge_flat=false" alt="Profile Views" />
+</p>
+<p align="center">
+  This counter tracks the number of times this profile page has been viewed.
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:1b2a4a,100:0b1020&height=140&section=footer" width="100%"/>
