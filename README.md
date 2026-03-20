@@ -75,4 +75,11 @@ GitHub: https://github.com/RocketSloth
 
 ---
 
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRocketSloth%2FRocketSloth&count_bg=%231b2a4a&title_bg=%230b1020&icon=&emoji=&title=Profile+Views&edge_flat=false" alt="Profile Views" />
+</p>
+<p align="center">
+  This counter tracks the number of times this profile page has been viewed.
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:1b2a4a,100:0b1020&height=140&section=footer" width="100%"/>
