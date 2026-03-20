@@ -7,17 +7,15 @@
 </p>
 
 <p align="center">
-  
-  ![Visitor Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RocketSloth/RocketSloth)
-  
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRocketSloth%2FRocketSloth&count_bg=%231b2a4a&title_bg=%230b1020&title=Profile+Views&edge_flat=false" alt="Profile Views" />
 </p>
 
 ---
 
 # 🚀 RocketSloth
 
-💻 Developer  
-🧠 Always learning new tech  
+💻 Developer
+🧠 Always learning new tech
 🚀 Building interesting projects and experimenting with ideas
 
 ---
@@ -44,16 +42,14 @@
 
 # 📌 Featured Projects
 
-🚀 **Project One**  
-https://github.com/RocketSloth/project-one
+🚀 **Project One**
+<https://github.com/RocketSloth/project-one>
 
-🛰️ **Project Two**  
-https://github.com/RocketSloth/project-two
+🛰️ **Project Two**
+<https://github.com/RocketSloth/project-two>
 
-🌠 **Project Three**  
-https://github.com/RocketSloth/project-three
-
-
+🌠 **Project Three**
+<https://github.com/RocketSloth/project-three>
 
 ---
 
@@ -63,7 +59,6 @@ https://github.com/RocketSloth/project-three
   <img src="https://raw.githubusercontent.com/RocketSloth/RocketSloth/main/assets/metrics.svg?cache=1" alt="GitHub Metrics" />
 </p>
 
-
 ---
 
 # 🐍 Contribution Snake
@@ -72,12 +67,11 @@ https://github.com/RocketSloth/project-three
   <img src="https://raw.githubusercontent.com/RocketSloth/RocketSloth/output/github-contribution-grid-snake.svg?cache=1" alt="Contribution Snake" />
 </p>
 
-
 ---
 
 # 🌐 Connect
 
-GitHub: https://github.com/RocketSloth  
+GitHub: <https://github.com/RocketSloth>
 
 ---
 
