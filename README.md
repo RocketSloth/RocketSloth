@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&color=7DF9FF&center=true&vCenter=true&width=900&lines=Welcome+to+RocketSloth's+GitHub;Building+cool+projects;Learning+new+tech+every+day;Open+to+collaborations" />
 </p>
 
+<p align="center">
+  
+  ![Visitor Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RocketSloth/RocketSloth)
+  
+</p>
+
 ---
 
 # 🚀 RocketSloth
