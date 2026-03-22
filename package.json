@@ -1,0 +1,9 @@
+{
+  "name": "rocketsloth-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RocketSloth GitHub profile README",
+  "scripts": {
+    "build": "echo 'No build step required for profile README repository'"
+  }
+}
