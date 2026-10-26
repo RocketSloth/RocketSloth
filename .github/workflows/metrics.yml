@@ -1,27 +1,37 @@
-name: Metrics
-
+name: Engineering telemetry
 on:
   schedule:
-    - cron: "0 3 * * *"  # daily
+    - cron: "0 3 * * *"
   workflow_dispatch:
-
+  push:
+    branches: [main]
+    paths:
+      - scripts/telemetry.mjs
+      - .github/workflows/metrics.yml
 permissions:
   contents: write
-
+concurrency:
+  group: engineering-telemetry
+  cancel-in-progress: false
 jobs:
-  metrics:
+  telemetry:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          user: RocketSloth
-          template: classic
-          filename: assets/metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-          base: header, activity, community, repositories
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
-          plugin_followup: yes
-          plugin_followup_sections: repositories
+          node-version: '22'
+      - name: Generate aggregate telemetry
+        run: node scripts/telemetry.mjs
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Commit telemetry when changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/telemetry.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Refresh engineering telemetry [skip ci]"
+          git pull --rebase origin main
+          git push origin HEAD:main
