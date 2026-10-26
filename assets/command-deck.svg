@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+<title id="title">RocketSloth orbital engineering</title><desc id="desc">Industrial spacecraft command panel with a blueprint ship, cyan displays, and amber hazard markings.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#28404c" stroke-width=".6"/></pattern><pattern id="hazard" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><rect width="12" height="24" fill="#eab35a"/></pattern><linearGradient id="steel" x2="1" y2="1"><stop stop-color="#1d303e"/><stop offset="1" stop-color="#0b131b"/></linearGradient></defs>
+<rect width="960" height="340" rx="6" fill="#0b131b"/>
+<path d="M1 25L25 1H935L959 25V315L935 339H25L1 315Z" fill="url(#steel)" stroke="#49616f"/>
+<path d="M12 29L29 12H931L948 29V311L931 328H29L12 311Z" fill="url(#grid)" opacity=".7"/>
+<path d="M29 12H330V17H29Z" fill="#56dcf2"/><path d="M630 323H931V328H630Z" fill="#56dcf2"/>
+<g fill="#58717f"><circle cx="26" cy="28" r="3"/><circle cx="934" cy="28" r="3"/><circle cx="26" cy="312" r="3"/><circle cx="934" cy="312" r="3"/></g>
+<g font-family="Consolas, monospace"><text x="42" y="52" fill="#56dcf2" font-size="12" letter-spacing="3">RS / ORBITAL ENGINEERING</text><text x="918" y="52" fill="#eab35a" text-anchor="end" font-size="11">INDEPENDENT BUILDER</text>
+<text x="40" y="137" fill="#f0f7fc" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="65" letter-spacing="-2">RocketSloth</text>
+<path d="M44 161H474" stroke="#49616f"/><path d="M44 161H129" stroke="#eab35a" stroke-width="3"/>
+<text x="43" y="195" fill="#56dcf2" font-size="18" letter-spacing="3">BUILD. AUTOMATE. EXPLORE.</text>
+<text x="43" y="228" fill="#b0c2cf" font-size="13">Practical systems. Curious engineering.</text>
+<text x="43" y="249" fill="#b0c2cf" font-size="13">Slow and steady — then escape velocity.</text>
+<text x="43" y="302" fill="#9ab2c2" font-size="10" letter-spacing="2">AI SYSTEMS / SOFTWARE / PHYSICAL PROTOTYPES</text>
+<text x="759" y="284" text-anchor="middle" fill="#7895a7" font-size="10" letter-spacing="2">EXPLORATION CLASS / RS-01</text></g>
+<g transform="translate(757 166)" fill="none" stroke="#56dcf2"><circle r="90" stroke="#345767"/><circle r="69" stroke-dasharray="3 8" stroke="#527785"/><path d="M-108 0H108M0-108V108" stroke="#345767"/><path d="M0-80L20-50V31L0 57L-20 31V-50Z" fill="#183b4a" stroke-width="2"/><path d="M-20-24L-59 13V47L-20 28M20-24L59 13V47L20 28" fill="#152b38" stroke-width="2"/><path d="M-8-49H8V-15H-8ZM-12-3H12V23H-12Z" fill="#38778a"/><path d="M-11 53L-8 72H8L11 53M-47 45V60M47 45V60" stroke="#eab35a" stroke-width="3"/><path d="M-98-64V-98H-64M64-98H98V-64M98 64V98H64M-64 98H-98V64" stroke="#eab35a"/></g>
+<rect x="841" y="300" width="73" height="8" fill="url(#hazard)"/></svg>
